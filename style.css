@@ -1,0 +1,76 @@
+.GoogleLogo{
+  position: absolute;
+  left: 500px;
+  top: 150px;
+}
+input[type=text] {
+   width: 490px;
+   height: 30px
+}
+.navBar_l{
+  position: absolute;
+  left:20px;
+  top:20px;
+}
+.navBar_r{
+  position: absolute;
+  left: 1200px;
+  top: 20px;
+
+}
+ul {
+  font-family: sans-serif;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+  color: gray;
+  font-family: sans-serif;
+  float: left;
+  display: block;
+  margin-left: 10px;
+  font-size: 14px;
+}
+
+
+
+
+.SearchBar{
+  position:absolute;
+  left: 500px;
+  top: 400px;
+}
+
+
+#lucky{
+  border: 0;
+
+ box-shadow: none;
+
+    color: gray;
+  font-weight:bold;
+  font-family: sans-serif;
+  height: 40px;
+  width: 150px;
+  position: absolute;
+  left: 760px;
+  top: 450px;
+}
+
+
+#search{
+  border: 0;
+
+ box-shadow: none;
+
+    color: gray;
+  font-weight:bold;
+  font-family: sans-serif;
+  height: 40px;
+  width: 150px;
+  position: absolute;
+  left: 580px;
+  top: 450px;
+}
